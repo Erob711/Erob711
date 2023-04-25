@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 
 I've recently made the switch↪️ from Software Sales to Software Development.
 
-Since I've spent most of my professional careeer pitching products, much of that "Keep it clean. Keep it simple. Keep it easy to understand." mentality carries over into my programming philosophy.
+Since I've spent most of my professional careeer communicating the benefits of products to users, much of that "Keep it clean. Keep it simple. Keep it easy to understand" mentality carries over into my programming.
 
-You can check out a few of my solo projects like mini games I've made on a Java CLI, or even take a look at the Animal Shelter Manager that my classmates amd I worked on together at Tech Elevator.
+Here you can check out a few of my solo projects like mini games I've made on a Java CLI, or even take a look at the Animal Shelter Manager that my classmates and I worked on together at Tech Elevator!
 
-HTML 5
+
+https://www.linkedin.com/in/ericmroberson/
+
+https://logowik.com/content/uploads/images/731_java.jpg
+
+
