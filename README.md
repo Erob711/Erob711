@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Sales turned↪️Software Development
+I've recently made the switch from Software sales to↪️Software Development
