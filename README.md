@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I've recently made the switch from Software sales to↪️Software Development
+I've recently made the switch↪️ from Software Sales to Software Development.
+
+Since I've spent most of my professional careeer pitching products, much of that "Keep it clean. Keep it simple. Keep it easy to understand." mentality carries over into my programming philosophy.
+
+You can check out a few of my solo projects like mini games I've made on a Java CLI, or even take a look at the Animal Shelter Manager that my classmates amd I worked on together at Tech Elevator.
+
+https://camo.githubusercontent.com/e12c72a3323cf62983a3c5104e1ac21f88017c1fb839cb27bbe09fc3380c7871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d6630363532393f7374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465
