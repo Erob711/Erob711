@@ -21,9 +21,10 @@ Since I've spent most of my professional careeer communicating the benefits of p
 
 Here you can check out a few of my solo projects like mini games I've made on a Java CLI, or even take a look at the Animal Shelter Manager that my classmates and I worked on together at Tech Elevator!
 
+LinkedIn
 
-https://www.linkedin.com/in/ericmroberson/
 
-![Java](https://user-images.githubusercontent.com/109642366/234369998-e2ef3004-4e13-46f2-abf4-d74acf19ed19.jpg)
+
+
 
 
