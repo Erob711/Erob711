@@ -24,8 +24,13 @@ Here you can check out a few of my solo projects like mini games I've made on a 
 #Skills: Java, HTML, CSS, Vue.Js, SQL
 
 
-![image](https://user-images.githubusercontent.com/109642366/234374846-15bc3b2f-c92d-49b5-8c2e-af8a92bcd0cf.png)
+![image](https://user-images.githubusercontent.com/109642366/234398770-d6662b5f-afa0-45d2-81b1-580ec2414cea.png)
 ![image](https://www.w3.org/html/logo/downloads/HTML5_Logo_64.png)
+![image](https://user-images.githubusercontent.com/109642366/234398969-4d55c385-199f-494a-8cd5-36b5143ea65f.png)
+![image](https://user-images.githubusercontent.com/109642366/234398423-76f96b30-c1b7-462f-a498-30578cd11062.png)
+![image](https://user-images.githubusercontent.com/109642366/234398667-011a0b3c-c1df-42d2-a6f2-4ad8cecabd8a.png)
+
+
 
 
 #Where to find me:
