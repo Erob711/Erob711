@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🤓 Since I've spent most of my careeer communicating the benefits of products to users, I think much of that "Keep it clean. Keep it simple" mentality carries over into my programming.
 
-🔥 Here you can check out a few of my solo projects like mini games I've built with Java, or even take a look at the Animal Shelter Manager that my classmates and I created while attending a Java bootcamp!
+🔥 Here you can check out a few of my solo projects like mini games I've built with Java, or even take a look at the Animal Shelter Manager my classmates and I created while attending a Java bootcamp!
 
 
 
