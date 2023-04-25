@@ -24,6 +24,6 @@ Here you can check out a few of my solo projects like mini games I've made on a 
 
 https://www.linkedin.com/in/ericmroberson/
 
-https://logowik.com/content/uploads/images/731_java.jpg
+![Java](https://user-images.githubusercontent.com/109642366/234369998-e2ef3004-4e13-46f2-abf4-d74acf19ed19.jpg)
 
 
