@@ -21,7 +21,7 @@ Since I've spent most of my careeer communicating the benefits of products to us
 
 Here you can check out a few of my solo projects like mini games I've made on a Java CLI, or even take a look at the Animal Shelter Manager that my classmates and I worked on together while attending a Java bootcamp!
 
-#Skills: Java, HTML, CSS, Vue.Js, SQL
+###Skills: Java, HTML, CSS, Vue.Js, SQL
 
 
 ![image](https://user-images.githubusercontent.com/109642366/234398770-d6662b5f-afa0-45d2-81b1-580ec2414cea.png)
@@ -33,11 +33,12 @@ Here you can check out a few of my solo projects like mini games I've made on a 
 
 
 
-#Where to find me:
+###Where to find me:
 
-[LinkedIn](https://www.linkedin.com/in/ericmroberson/)
+[LinkedIn](https://www.linkedin.com/in/ericmroberson/)![image](https://user-images.githubusercontent.com/109642366/234399369-b1a9229c-d898-473f-9518-3ebbac7df177.png)
 
-[Resume](https://docs.google.com/document/d/1B7d0Gq0A3BOmuXz7xFRAtzXGqjS0ttVK1kkQ3rIvCH8/edit?usp=sharing)
+[Resume](https://docs.google.com/document/d/1B7d0Gq0A3BOmuXz7xFRAtzXGqjS0ttVK1kkQ3rIvCH8/edit?usp=sharing)![image](https://user-images.githubusercontent.com/109642366/234399601-e2173b20-cf2c-4cea-b6d4-b2d3cb92f6cb.png)
+
 
 
 
