@@ -21,6 +21,10 @@ Since I've spent most of my professional careeer communicating the benefits of p
 
 Here you can check out a few of my solo projects like mini games I've made on a Java CLI, or even take a look at the Animal Shelter Manager that my classmates and I worked on together at Tech Elevator!
 
+Skills: 
+Java ![image](https://user-images.githubusercontent.com/109642366/234374846-15bc3b2f-c92d-49b5-8c2e-af8a92bcd0cf.png)
+
+
 LinkedIn
 
 
