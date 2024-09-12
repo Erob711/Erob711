@@ -42,11 +42,6 @@ Here are some ideas to get you started:
 [Resume](https://docs.google.com/document/d/1B7d0Gq0A3BOmuXz7xFRAtzXGqjS0ttVK1kkQ3rIvCH8/edit?usp=sharing)![image](https://user-images.githubusercontent.com/109642366/234399601-e2173b20-cf2c-4cea-b6d4-b2d3cb92f6cb.png)
 
 
-👇Psst!... I hosted me and my classmate's final capstone from Tech Elevator to the web!
-
-
-[Animal Shelter Website](https://animalshelt2023.com/)
-
 
 
 
