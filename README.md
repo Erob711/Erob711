@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ## Where to find me:
 
-[LinkedIn](https://www.linkedin.com/in/ericmroberson/)![image](https://user-images.githubusercontent.com/109642366/234399369-b1a9229c-d898-473f-9518-3ebbac7df177.png)
+[LinkedIn](https://www.linkedin.com/in/ericmroberson/)
